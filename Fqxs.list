@@ -1,0 +1,46 @@
+# 番茄小说
+主机，p6-ad-sign.byteimg.com，拒绝
+主机，p9-ad-sign.byteimg.com，拒绝
+主机后缀，byteimg.com，DIRECT
+主机，i.snssdk.com，拒绝
+主机，i-lq.snssdk.com，拒绝
+主机，dig.bdurl.net，拒绝
+主机关键字，zijieapi，REJECT
+# HOST，ads3-normal-lq.zijieapi.com，拒绝
+# HOST,ads5-normal-lq.zijieapi.com,REJECT
+# HOST，polaris3-normal-lq.zijieapi.com，拒绝
+主机，activity-ag.awemeughun.com，拒绝
+
+主机，mcs.snssdk.com，拒绝
+主机，tnc3-alisc1.snssdk.com，拒绝
+主机，security-lq.snssdk.com，REJECT
+主机，tnc3-aliec2.snssdk.com，拒绝
+主机，is.snssdk.com，拒绝
+
+主机，msync-im1-vip6-std.easemob.com，拒绝
+
+主机，apd-pcdnwxlogin.teg.tencent-cloud.net，拒绝
+主机，api.iegadp.qq.com，拒绝
+
+主机，sf3-ttcdn-tos.pstatp.com，拒绝
+主机-SUFFIX，pglstatp-toutiao.com，拒绝
+# HOST，p3-be-pack-sign.pglstatp-toutiao.com，拒绝
+# HOST，sf3-be-pack.pglstatp-toutiao.com，拒绝
+
+主机，*default.ixigua.com，拒绝
+主机，v6-novelapp.ixigua.com，拒绝
+主机，*novelapp.ixigua.com，拒绝
+# HOST，v3-default.ixigua.com，拒绝
+# HOST，v9-default.ixigua.com，拒绝
+# HOST，v6-default.ixigua.com，拒绝
+
+主机-SUFFIX，byteorge.com，拒绝
+主机后缀，bytegoofy.com，拒绝
+HOST-SUFFIX，bytedance.com，REJECT
+
+IP-CIDR，49.71.37.101/32，拒绝，未解决
+IP-CIDR，117.71.105.23/32，拒绝，未解决
+IP-CIDR，218.94.207.205/32，拒绝，无解决
+IP-CIDR，117.92.229.188/32，拒绝，未解决
+IP-CIDR，101.36.166.16/32，拒绝，未解决
+IP-CIDR，180.96.2.114/32，拒绝，不解决
